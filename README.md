@@ -40,8 +40,8 @@ This is a mobile workout tracker app built with **React Native (Expo)** as part 
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/workout-tracker.git
-   cd workout-tracker
+   git clone https://github.com/akashjha21/Workout_Tracker.git
+   cd Workout_Tracker
    ```
 
 2. Install dependencies:
@@ -78,6 +78,7 @@ Basic unit tests added using Jest (optional based on your scope).
 ## 📝 What I'd Do Next (If More Time)
 
 - Add animated transitions between exercises
+- Add Voice TTS
 - Integrate voice cues using `expo-speech`
 - Export workout history to calendar or fitness APIs
 - Display weekly calendar view in history
@@ -87,4 +88,4 @@ Basic unit tests added using Jest (optional based on your scope).
 
 ## ⏱ Time Spent
 
-> Approximately **4–5 hours** total, including setup, coding, styling, and dark mode enhancement.
+> Approximately **7–8 hours** total, including setup, coding, styling, dark mode enhancement, and a lot of debugging for errors.
