@@ -89,3 +89,7 @@ Basic unit tests added using Jest (optional based on your scope).
 ## ⏱ Time Spent
 
 > Approximately **7–8 hours** total, including setup, coding, styling, dark mode enhancement, and a lot of debugging for errors.
+
+
+https://github.com/user-attachments/assets/070ccd1a-166c-426c-b9c0-fb3fc0b59ec6
+
